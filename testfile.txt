@@ -1,3 +1,3 @@
 hello world
 append a line
-create on branch dev
+create on branch new dev
